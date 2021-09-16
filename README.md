@@ -8,5 +8,5 @@ A software engineer, a Python developer, and a Junior Machine Learning Engineer.
 
 ### Links
 
-* [Blog](https://iarian.ir)
+* [Website](https://iarian.ir)
 * [Linkedin](https://www.linkedin.com/in/arian-alijani)
