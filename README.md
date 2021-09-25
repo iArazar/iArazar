@@ -1,5 +1,5 @@
-### Hi I'm Arian Alijani 👋
-A software engineer, a Python developer, and a Junior Machine Learning Engineer. A team player with the ability to multi-task and a passion for products.
+### Hi, I'm Arian Alijani
+A Python developer, Software QA Tester, and Junior Machine Learning Engineer. A team player with the ability to multi-task and a passion for products.
 
 
 - 🔭 I’m currently working on an e-Health open-source project ([MishkaOCR](https://github.com/mishka-group/mishka-ocr))
