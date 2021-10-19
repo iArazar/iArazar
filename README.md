@@ -3,7 +3,7 @@ A Python developer, Software QA Tester, and Junior Machine Learning Engineer. A 
 
 
 - 🔭 I’m currently working on an e-Health open-source project ([MishkaOCR](https://github.com/mishka-group/mishka-ocr))
-- 📫 How to reach me: arian.alijani@protonmail.com
+- 📫 How to reach me: arian.alijani@pm.com
 - ⚡ Fun fact: I was an UI designer, and a RPA(Robotic Process Automation) developer 😄
 
 ### Links
