@@ -1,8 +1,8 @@
 ### Hi, I'm Arian Alijani
-A Python developer, Software QA Tester, and Junior Machine Learning Engineer. A team player with the ability to multi-task and a passion for products.
+A Software QA Tester, and Python developer. A team player with the ability to multi-task and a passion for products.
 
 
-- 🔭 I’m currently working on an e-Health open-source project ([MishkaOCR](https://github.com/mishka-group/mishka-ocr))
+- 🔭 I’m currently working on an open-source CMS as a QA Tester ([MishkaCMS](https://github.com/mishka-group/mishka-cms))
 - 📫 How to reach me: arian.alijani@pm.com
 - ⚡ Fun fact: I was an UI designer, and a RPA(Robotic Process Automation) developer 😄
 
