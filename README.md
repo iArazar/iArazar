@@ -1,11 +1,11 @@
-### Hi, I'm Arian
-QA Engineer with 4+ years of experience in manual and automated testing, utilizing Playwright & Cypress for E2E, integration, and regression testing. Proficient in Agile methodologies, including Scrum. Dedicated to delivering exceptional results and enhancing processes. Demonstrates strong technical skills, attention to detail, and a commitment to excellence.
+### Hi, I'm Arian 👋
+I’m a QA Engineer with over 5 years of experience in both manual and automated testing, with expertise in end-to-end (E2E), integration and regression testing using tools like Playwright and Cypress. I combine technical proficiency with a keen attention to detail to consistently deliver reliable, high-performing applications.
 
+- 🔭 &nbsp; Currently contributing as a QA Engineer to an open-source library, [MishkaChelekom](https://github.com/mishka-group/mishka_chelekom).
+- 📫 &nbsp; Reach out to me: <alijani.arian@gmail.com>
 
-- 🔭 &nbsp; I’m currently working on an open-source CMS as a QA Tester ([MishkaCMS](https://github.com/mishka-group/mishka-cms))
-- 📫 &nbsp; How to reach me: <alijani.arian@gmail.com>
+---
 
+### Let's Connect
 
-### Links
-
-* [Linkedin](https://www.linkedin.com/in/arian-alijani)
+- [Linkedin](https://www.linkedin.com/in/arian-alijani)
